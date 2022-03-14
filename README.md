@@ -1,31 +1,31 @@
 <div align="center">
-<h1>
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Hi,+I'm+Giorgi,+Welcome+To+My+Github+Profile." height="70"/>
-</h1>
 </div>  
 
-<br/>  
+##
 
 <div align="center">
 <a href="mailto:g.mskhiladze99@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="_blank" height="35" />
 </a>
 <a href="https://linkedin.com/in/giorgimskhiladze" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin"  target="_blank"/>
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin"  target="_blank" height="35" />
 </a>
 <a href="https://www.facebook.com/giorgimskhiladze99" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt="facebook"  target="_blank" />
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt="facebook"  target="_blank" height="35" />
 </a> 
 <a href="https://instagram.com/giorgi.mskhiladze" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank" height="35" />
 </a>
 <a href="https://dribbble.com/wazaaa" target="_blank">
-<img src="https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble"  target="_blank" />
+<img src="https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble"  target="_blank" height="35" />
 </a>  
 <a href="https://twitter.com/g_mskhiladze" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"  target="_blank" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"  target="_blank" height="35" />
 </a>
 </div>  
+
+##
 
 <br/>
 
