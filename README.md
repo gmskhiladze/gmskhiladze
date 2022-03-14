@@ -35,8 +35,6 @@
 
 - 👨‍💻 All of my projects are available at Not ready yet 😞
 
-- 📝 I regularly write articles on Coming soon 😊
-
 - 💬 Ask me about anything related to everything   
 
 - ⚡ Fun fact: JavaScript is the best programming language,😕 really 😐  
@@ -56,9 +54,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35">
 </div>
 
-<br/>  
-
-## Github Stats  
+##
 
 <br/>  
 
@@ -67,19 +63,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmskhiladze&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmskhiladze&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
 <br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=vajuz219zlyy5tsxcyidvtj27&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=vajuz219zlyy5tsxcyidvtj27&cover_image=true&theme=default&bar_color_cover=true" />
+</div>  
 
 <br/> 
 
 <div align="center">
-<a href="https://paypal.me/giorgimskhiladze?country.x=GE&locale.x=en_US" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
+  
+<a href="https://paypal.me/giorgimskhiladze?country.x=GE&locale.x=en_US" target="_blank">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="40"/>
 </a>
+  
 <a href="https://www.buymeacoffee.com/gmskhiladze" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center"/>
+ <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40">
 </a>
 </div>
   
