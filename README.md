@@ -80,11 +80,9 @@
 
 <br/>
   
-<!-- 
-spotify playing now
 <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=vajuz219zlyy5tsxcyidvtj27&cover_image=true&theme=default&bar_color_cover=true" />
-</div>   -->
+</div>
   
 <br/> 
 
