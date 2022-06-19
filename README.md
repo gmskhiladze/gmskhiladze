@@ -39,15 +39,15 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Repo Name](https://github.com/) 
+<!-- - 🔭 I’m currently working on [Repo Name](https://github.com/)  -->
 
-- 🌱 I’m currently learning **React, MUI**
+- 🌱 I’m currently learning **React, Next.js & TypeScript**
 
-- 👨‍💻 All of my projects are available at Not ready yet 😞
+<!-- - 👨‍💻 All of my projects are available at Not ready yet 😞 -->
 
 - 📫 How to reach me **g.mskhiladze99@gmail.com**
 
-- 💬 Ask me about anything related to everything   
+- 💬 Ask me about anything related to JS   
 
 - ⚡ Fun fact: JavaScript is the best programming language,😕 really 😐  
 
