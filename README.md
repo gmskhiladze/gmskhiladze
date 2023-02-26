@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Hi,+I'm+Giorgi,+Welcome+To+My+Github+Profile+.     ." height="70"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=530&lines=Hi,+I'm+Giorgi,+Welcome+To+My+Github+Profile" height="70"/>
 </div>  
 
 ##
