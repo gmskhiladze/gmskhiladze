@@ -41,7 +41,7 @@
 
 <!-- - 🔭 I’m currently working on [Repo Name](https://github.com/)  -->
 
-- 🌱 I’m currently learning **Tailwind CSS, Next.js & TypeScript**
+- 🌱 I’m currently learning **JS as always, Tailwind, Next.js & TypeScript**
 
 <!-- - 👨‍💻 All of my projects are available at Not ready yet 😞 -->
 
