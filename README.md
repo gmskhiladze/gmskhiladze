@@ -15,7 +15,7 @@
 <a href="https://dribbble.com/wazaaa" target="_blank">
 <img src="https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble" target="_blank" height="35" />
 </a> 
-<a href="https://instagram.com/giorgi.mskhiladze" target="_blank">
+<!-- <a href="https://instagram.com/giorgi.mskhiladze" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank" height="35" />
 </a> 
 <a href="https://www.facebook.com/giorgimskhiladze99" target="_blank">
@@ -23,7 +23,7 @@
 </a> 
 <a href="https://twitter.com/g_mskhiladze" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" target="_blank" height="35" />
-</a>
+</a> -->
 <!-- <a href="https://dev.to/gmskhiladze" target="blank">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="gmskhiladze" target="_blank" height="35" />
 </a>
