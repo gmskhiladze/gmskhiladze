@@ -41,7 +41,7 @@
 
 <!-- - 🔭 I’m currently working on [Repo Name](https://github.com/)  -->
 
-- 🌱 I’m currently learning **JS as always, Tailwind, Next.js & TypeScript**
+<!-- - 🌱 I’m currently learning **JS as always, Tailwind, Next.js & TypeScript** -->
 
 <!-- - 👨‍💻 All of my projects are available at Not ready yet 😞 -->
 
@@ -60,14 +60,13 @@
 <br/> 
 
 <div align="center">
-  
-<a href="https://paypal.me/giorgimskhiladze?country.x=GE&locale.x=en_US" target="_blank">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="40"/>
-</a>
-  
-<a href="https://www.buymeacoffee.com/gmskhiladze" target="_blank" style="display: inline-block;">
- <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40">
-</a>
+  <a href="https://paypal.me/giorgimskhiladze?country.x=GE&locale.x=en_US" target="_blank">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="40"/>
+  </a>
+    
+  <a href="https://www.buymeacoffee.com/gmskhiladze" target="_blank" style="display: inline-block;">
+   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40">
+  </a>
 </div>
   
 <br/>
